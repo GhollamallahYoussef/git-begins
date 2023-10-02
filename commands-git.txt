@@ -8,3 +8,6 @@ les 3 commandes pour push sont:
 1. git add .
 2. git commit -m "mon message d'ajout ou de modification d'un éléments"
 3. git push origin main
+
+la commande pour pull est :
+- git pull origin main
