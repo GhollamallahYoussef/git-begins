@@ -11,3 +11,10 @@ les 3 commandes pour push sont:
 
 la commande pour pull est :
 - git pull origin main
+
+Aller plus loin:
+pour créer une nouvelle branche la commande est:
+- git branch "add-create-branch-command"
+
+et pour changer de branch:
+- git checkout "add-create-branch-command"
