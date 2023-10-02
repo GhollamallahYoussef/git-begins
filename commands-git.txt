@@ -1,0 +1,10 @@
+Bonjour,
+
+la commande pour cloner un repository est :
+git clone "https://github.com/GhollamallahYoussef/git-begins.git"
+
+
+les 3 commandes pour push sont: 
+1. git add .
+2. git commit -m "mon message d'ajout ou de modification d'un éléments"
+3. git push origin main
